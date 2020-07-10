@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hello Wrold
 
+星星也曾发过光，爆炸的时候最耀眼
+
+The stars have also shined, the most dazzling when they explode - google translate
 <!--
 **sanshiliuxiao/sanshiliuxiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
