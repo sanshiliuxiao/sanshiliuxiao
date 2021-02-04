@@ -1,4 +1,4 @@
-## 星星也曾发过光，爆炸的时候最耀眼
+## 做个纸灯，发光发热
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanshiliuxiao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
